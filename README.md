@@ -5,6 +5,7 @@ This is a React application that demonstrates 3D cube interaction using BabylonJ
 ## Features
 
 - Click and drag on the faces of the 3D cube to extrude them.
+- Double Click and drag to rotate the 3D cube.
 - Real-time 3D rendering using BabylonJS.
 - Modular code structure for easy maintenance and readability.
 
@@ -32,6 +33,10 @@ npm install
 ```bash
 npm run dev
 ```
+
+## Deployment
+
+The Project has been deployed on [https://cubeextrusion.vercel.app/](https://cubeextrusion.vercel.app/).
 
 ## Contact
 
