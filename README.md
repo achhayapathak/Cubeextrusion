@@ -1,8 +1,38 @@
-# React + Vite
+# React BabylonJS 3D Cube Interaction
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React application that demonstrates 3D cube interaction using BabylonJS. It allows you to click and drag faces of the cube to extrude them, creating a 3D sculpting-like experience.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Click and drag on the faces of the 3D cube to extrude them.
+- Real-time 3D rendering using BabylonJS.
+- Modular code structure for easy maintenance and readability.
+
+## Prerequisites
+
+- Node.js (https://nodejs.org) - Make sure you have Node.js installed on your system.
+
+## Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/achhayapathak/Cubeextrusion
+```
+
+2. Install dependencies:
+
+```bash
+cd CubeExtrusion
+npm install
+```
+
+3. Start the development server:
+
+```bash
+npm run dev
+```
+
+## Contact
+
+For any further questions or issues, please contact me at [achhayapathak11@gmail.com](mailto:achhayapathak11@gmail.com).
